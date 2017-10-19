@@ -1,0 +1,28 @@
+Название:HowToSingInASong ...
+
+Баллы: 100
+
+Категория: Recon
+
+Описание:
+Однажды один мой знакомы сказал мне:
+-Я супергерой, и у меня есть суперрука.
+Этой рукой я ломаю почту и пароли ВК.
+Все мы его хорошо с ним знакомы, но мало кто помнит его имя. Как его зовут?
+
+
+One day one of my friends told me:
+- I'm a superhero, and I have a superbowl.
+With this hand, I break the mail and VK passwords.
+We all know him well, but few people remember his name. What's his name?
+
+
+P.S - Flag - Fhq{translitwithoutspaces}
+
+
+Флаг: Fhq{tyizhprogrammist}
+
+
+Автор:SharLike - Obi-Wan Kenobi
+
+Контакты: @Ob1Wan_Kenob1 (https://t.me/Ob1Wan_Kenob1)

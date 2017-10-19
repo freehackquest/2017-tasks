@@ -1,0 +1,4 @@
+1
+Флаг хранится в файле flag.txt в одной из корневых директорий файловой системы.
+
+The flag is stored in the file flag.txt in one of the root directories of the file system.

@@ -1,0 +1,24 @@
+﻿Название : CallingYou
+
+Категория: Forensics
+
+Стоимость: 300
+
+Fhq{str4ng3_th1ngs_h3r3}
+
+Описание: Бесконечные звонки днями и ночами.. есть ли в них смысл?
+
+Description: Endless calls every day and night .. does it make sense?
+
+Файлы: log.scap
+
+Подсказки:
+	1.ru) sysdig может помочь
+	1.en) sysdig can help
+
+	2.ru) Лучшие аргументы — спонтанные. 
+	2.en) The best arguments are spontaneous.
+
+Автор: SharLike/Fro_0st
+
+Контакты: http://t.me/Fro_0st

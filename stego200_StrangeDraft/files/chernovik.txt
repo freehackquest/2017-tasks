@@ -1,0 +1,49 @@
+Information security, sometimes shortened to InfoSec, is the practice1
+
+Sometimes referred to as computer security, information technology security (IT security) is information
+
+security applied to technology (most often some form of computer system). It is worthwhile to note that a compute
+
+r does not necessarily mean a home desktop. A computer is any device with a processor and some memory. Such devices can ran
+
+ge from non-networked standalone devices as simple as calculators, to networked mobile computing devic
+
+es such as smartphones and tablet computers. IT security specialists are almost always found in any major enterprise/
+
+establishment due to the nature and value of the data within larger businesses. They are responsible for keepi
+
+ng all of the technology within the company secure from malicious cyber attacks that often atte
+
+The act of providing trust of the information, that the Confidentiality, Integrity and Availability
+
+(CIA) of the information are not violated, e.g. ensuring that data is not lost when critical issues aris
+
+e. These issues include, but are not limited to: natural disasters, computer/server malfunction o
+
+r physical theft. Since most information is stored on computers in our modern era, information assurance is typica
+
+lly dealt with by IT security specialists. A common method of providing information assurance is1
+
+Capture the flag (CTF) is a traditional outdoor game where two teams each have a flag (or other mar
+
+ker) and the objective is to capture the other team's flag, located at the team's "base," and bring it safely back t
+
+o their own base. Enemy players can be "tagged" by players in their home territory; these players are
+
+then, depending on the agreed rules, out of the game, members of the opposite team, sent back to their own territo
+
+Capture the Flag requires a playing field of some sort. Whether indoor or outdoor, the field is
+
+divided into two clearly designated halves, known as territories. Players form two teams, one for e
+
+ach territory. Each side has a "flag" which is most often a piece of fabric, but can be any object small enough
+
+to be easily carried by a person (night time games might use flashlights, glowsticks or lanterns as the "flags"). It1
+
+is also suggested that teams wear dark colors at night to make it more difficult for their opponents to see th
+
+em. If one team has the opposing team's flag on their territory they may be tagged because they have the opposing te
+
+am's flag. Do not read this text. This does not help you in solving the task. I'm not trying to fool you, it's real.Good Luck
+
+

@@ -1,0 +1,22 @@
+﻿В очередных соревнованиях CTF принимало участие N команд, M из этих команд принадлежат одному из регионов. Руководствуясь девизом (Главное не победа, главное участие), команды договорились расположиться в итоговой таблице таким образом что бы между командами было одинаковое количество строчек.
+
+Зная общее количество команд и количество команд из одного региона, необходимо посчитать количество возможных вариантов расположиться в турнирной таблице согласно оговоренным правилам.
+
+Пример: N=3, M=2
+Ответ: 3 ((1,2), (2,3), (1,3))
+
+flag = fhq{md5(суммирование результатов)}
+
+In some CTF competition was N teams, and M of them from one region, so they decided, if they can't win, they whould have beatiful lose.
+You should return quantity of diffrent combinations, then commands have equal intervals between each over.
+
+Example: N=3, M=2
+Answer: 3 ((1,2) - interval 0, (2,3) - interval 0, (1,3) - interval 1)
+
+flag = fhq{md5(sum_of_results)}
+
+fhq{758c6a98578de0cb9fb89347e4fb0fad}
+SharLike Rolex01
+Telegram: @Rolexo1
+Решение: fhq2017_ppc300_ans.py
+300

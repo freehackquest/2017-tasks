@@ -1,0 +1,10 @@
+1:
+Что содержит REQUEST?
+
+What does REQUEST contain?
+
+
+2:
+Что такое GPC?
+
+What is GPC?

@@ -1,0 +1,25 @@
+Название : Matronamama
+
+Категория: Stego
+
+Стоимость: 300
+
+Fhq{ok_ok_stegomaster}
+
+Описание: Говорят, матрешки бездушные создания. Так ли это? 
+
+Description: They say matryoshka soulless creatures. Is it so?
+
+Файл: matros
+
+Подсказка 1: Что внутри? Разбери её! Разбери ее полностью!!!
+Hint 1: What's inside? Take it apart! Take it apart completely!
+
+Подсказка 2:  Люблю двоичные прогулки по вечерам и запах dd магии...
+Hint 2: I love binary walks in the evenings and the smell of dd magic ...
+
+Решение: sol.docx
+
+Автор: SharLike/Ror_schach
+
+Контакты: eziklesnoy@mail.ru

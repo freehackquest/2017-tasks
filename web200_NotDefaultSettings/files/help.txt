@@ -1,0 +1,39 @@
+
+$sendMessage=false;
+if(($_SERVER['REQUEST_METHOD']=="GET"))
+{
+        if (@empty($_GET['name']) or !isset($_GET['name'])) {
+            $mess = "Please enter your name";
+--------------------------Data loss------------------------------------------------
+        elseif($_GET['name']=="admin")
+            {
+                $mess = "It's not so simple, you are not Obi-Wan";
+--------------------------Data loss------------------------------------------------
+        else{
+                $_GET['name']=htmlspecialchars($_GET['name']);
+                $sendMessage=true;
+                        }
+                    }
+elseif(($_SERVER['REQUEST_METHOD']=="POST")) {
+        if (!isset($_POST['name'])) {
+                 $mess = "Please enter your name";
+--------------------------Data loss------------------------------------------------
+}
+}
+
+extract($_REQUEST);
+
+if($name==="admin")
+    $name.=$flag;
+if($sendMessage!==true) {
+    ?>
+--------------------------Data loss------------------------------------------------
+
+else
+{?>
+    <div class="successSendMessage">
+                <h3 class="contact-us-header"><?php echo $name?>, thanks you! </h3>
+                <p>Your message has been received.<br>  Obi-Wan will respond to him in the near future</p>
+    </div>
+    
+--------------------------Data loss------------------------------------------------

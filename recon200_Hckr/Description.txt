@@ -1,0 +1,19 @@
+Название : Hckr
+
+Категория: Recon
+
+Стоимость: 200
+
+Fhq{karl_koch}
+
+Описание: Найдите члена одного компьютерного клуба, название которого я смутно помню. Этот человек взломал наше правительство и продал очень важные данные КГБ, он должен быть наказан! Формат ответа: Fhq{firstname_lastname}
+
+Description: Find a member of one computer club, whose name I vaguely remember. This man hacked our government and sold very important data to KGB, he must be punished! Answer format: Fhq{firstname_lastname}
+
+Hints:
+	1.ru) CCC
+	1.en) CCC
+
+Автор: SharLike/Fro_0st
+
+Контакты: http://t.me/Fro_0st

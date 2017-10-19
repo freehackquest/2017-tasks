@@ -1,0 +1,18 @@
+﻿Название: MainQuestion
+Балы: 75
+
+Категория: trivia
+
+Описание: 
+Мне на почту пришло странное письмо. Автор уверяет, что в нём зашифрован ответ на самый главный вопрос. Сможешь ли ты его найти и расшифровать?
+
+A strange letter came to the post office. The author claims that the answer to the most important question is encrypted in it. Can you find it and decipher it?
+
+Файл: is the meaning of life.txt
+
+
+Флаг: Fhg{forty2it's_all}
+
+Автор:SharLike - Rota
+
+Контакты: @Rotanish (https://t.me/Rotanish)

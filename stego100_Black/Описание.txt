@@ -1,0 +1,21 @@
+Название:Black's
+
+Баллы: 100
+
+Категория: Stego
+
+Описание:
+Пиратские сайты никогда не отличались благонадежностью. В данном случае, мы почти уверены, что это текст содержит в себе что-то еще. Найди это
+
+Pirate sites have never been trustworthy. In this case, we are almost sure that this text contains something else. Find it
+
+
+Файл: black.docx
+
+
+Флаг: Fhq{nice_white_text}
+
+
+Автор:SharLike - Obi-Wan Kenobi
+
+Контакты: @Ob1Wan_Kenob1 (https://t.me/Ob1Wan_Kenob1)

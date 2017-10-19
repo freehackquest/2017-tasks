@@ -1,0 +1,25 @@
+Описание:
+Стоя на развилке часто думаешь куда пойти... Хочется побыть везде
+
+When you stay on the fork, you usualy think...Where to go. Especially if you want to be everywhere.
+
+Решение:
+Для решения достаточно иметь отладчик, просто заходим в каждую из веток условия (это становится ясно описанию и названиям функций в них). В итоге получаем Флаг, после прохода по 2 веткам. Скриншот прлагается
+
+
+You should have only dbg for linux, to solw this task. So, we should call both functions from two branches of condition.
+
+Стоимость:
+150
+
+Автор:
+Likc
+
+Флаг:
+Fqh{we_need_all_ways}
+
+Подсказака:
+Попробуй все пути
+
+Hint:
+Try all ways

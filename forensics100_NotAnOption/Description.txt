@@ -1,0 +1,21 @@
+﻿Название : NotAnOption
+
+Категория: Forensics
+
+Стоимость: 100
+
+Fhq{c0mpr3ss10n_1s_n0t_4n_0pt10n}
+
+Мне передали сообщение странным способом.
+
+Description: I was given a message in a strange way.
+
+Файлы: 100
+
+Hints:
+	1.ru) Попробуй начать С НАЧАЛА
+	1.en) Try to start from the beginning
+
+Автор: SharLike/Fro_0st
+
+Контакты: http://t.me/Fro_0st

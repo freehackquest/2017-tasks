@@ -1,0 +1,4 @@
+1:
+Казалось бы, текст одинаковый, но начало одного из абзацев отличается от других.
+
+It would seem that the text is the same, but the beginning of one of the paragraphs differs from the others.

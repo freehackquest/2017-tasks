@@ -1,0 +1,17 @@
+Таск на ошибку в настройке .htaccess для Symfony-приложения.
+
+Заходим на сервис и видим, что перед нами обычное TODO-list приложение, ничего интересного. Наиболее наблюдательные обратят внимание на favicon. Фавиконка является стандартной для приложений, реализованных на PHP-фреймворке Symfony. Пробуем обратится к фронт-контроллеру для dev-режима: http://<service-address>/app_dev.php/...
+Видим, что внизу появился дебаг-тулбар Symfony. Щелкаем, например, на код ответа (внизу в левом нижнем углу). Заходим в панель Symfony Profiler. 
+Symfony Profiler позволяет смотреть содержимое исходных файлов проекта (LFI), по адресу: http://<service-address>/open?file=<название файла>. Полистав файлы конфигурации из директории app/config, можем обнаружить флаг в файле parameters.yml.
+
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: todo_app
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: Fhq{p1ease_k33p_app_dev_file_cl0sed}

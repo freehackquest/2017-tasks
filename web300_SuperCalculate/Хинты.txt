@@ -1,0 +1,10 @@
+1:
+Как может работать кривой калькулятор? Может, он просто выполняет код?
+
+How can a curve calculator work? Maybe he just does the code?
+
+
+2:
+Как можно подключить файл, чтобы в выражении была арифметическая операция?
+
+How can I connect a file so that the expression has an arithmetic operation?

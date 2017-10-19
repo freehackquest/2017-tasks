@@ -1,0 +1,18 @@
+﻿Название: JustIsTheCharacters
+Балы: 150
+
+Категория: trivia
+
+Описание: 
+Друг скинул этот файл, и попросил дойти до конца.
+
+A friend dropped this file, and asked to go to the end.
+
+Файл: just is the characters.txt
+
+
+Флаг: Fhq{S0_e45y}
+
+Автор:SharLike - Rota
+
+Контакты: @Rotanish (https://t.me/Rotanish)

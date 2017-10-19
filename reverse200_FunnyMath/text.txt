@@ -1,0 +1,37 @@
+Описание:
+Я всегда ненавидел математику, пока мне не сказали, что она может быть забавной)
+
+I hated math, but once somebody says to me, that it cat be funny
+
+
+
+
+МЫ видим ELF, который просит нас ввести пароль - значит реверсим и находим кусок
+со стравнение пароля, который можно представить как
+
+if(len(pass) == 4 &&
+pass - 7000 <= 999 &&
+pass % 1000 - 900 <= 99 &&
+pass % 100 - 20 <= 9 &&
+pass % 10 == 5)
+
+При этом работа идет с unsigned int, следовательно если отнять лишком много, то счет начнется с максимальных значений int, таким образом выходит, что пароль 7925 (по первым цифрам отнимаемых чисел)
+
+So, we should find the part of the programm, where checking password. We should understand and make abstract code such as:
+
+if(len(pass) == 4 &&
+pass - 7000 <= 999 &&
+pass % 1000 - 900 <= 99 &&
+pass % 100 - 20 <= 9 &&
+pass % 10 == 5)
+
+Moreover, the result of ever expression is unsigned int, so passord is 7925 
+
+Points: 200
+
+Fqh{7925}
+
+Hints:Look at comparing in main function 
+Подсказка: Смотри на сравнение в функции main
+
+Автор: Likc

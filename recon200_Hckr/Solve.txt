@@ -1,0 +1,1 @@
+Гуглим computer club + hackers, находим список хакерских группировок, среди них Chaos Computer CLub (CCC). Открываем статью на английской википедии (https://en.wikipedia.org/wiki/Chaos_Computer_Club), и читаем. В абзаце про Karl Koch описана та же ситуация, что и в описании задания. Флаг: Fhq{karl_koch}

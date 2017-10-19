@@ -1,0 +1,22 @@
+﻿Дано первое число и его система исчисления
+Дано второе число и его система исчисления
+Вычислить результат суммирования в указанной системе исчисления
+
+Пример: 1010 2 3 10 16
+Ответ: D (A + 3)
+
+flag = fhq{md5(конкатенация результатов)}
+
+You have two numbers and it's notations.
+You should return their summ in given to you rotation.
+
+Example: 1010 2 3 10 16
+Answer: D (A + 3)
+
+flag=fhq{md5(result_concatenation)}
+
+fhq{b5ab5b3284fb918bc5a41c55a1934f77}
+SharLike Rolex01
+Telegram: @Rolexo1
+Решение: fhq2017_ppc200_ans.py
+200

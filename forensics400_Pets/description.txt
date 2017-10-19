@@ -1,0 +1,25 @@
+Название : Pets
+
+Категория: Forensic
+
+Стоимость: 400
+
+FHQ{the_author_hit_the_wall!}
+
+Описание: Любите ли вы животных? Насколько сильно?
+
+Description: Do you like animals? How strong?
+
+Файл: pets.rar
+
+Подсказка 1: Геометки в теге артиста?
+Hint 1: Geo-tags in the artist's tag?
+
+Подсказка 2: Может воспользуетесь изолентой? Кажется что-то расклеилось...
+Hint 2: Can you use electrical tape? It seems that something has come unstuck...
+
+Решение: sol.pdf
+
+Автор: SharLike/Ror_schach
+
+Контакты: eziklesnoy@mail.ru

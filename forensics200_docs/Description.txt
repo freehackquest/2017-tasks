@@ -1,0 +1,21 @@
+Название : docs
+
+Категория: Forensics
+
+Стоимость: 200
+
+Fhq{l1nux_f0r3v3r}
+
+Описание: Я всегда знал, что читать документацию полезно.
+
+Description: I always knew that reading the documentation was useful.
+
+Файлы: Documentation.zip
+
+Подсказки:
+	1.ru) Формат флага тоже полезен
+	1.en) Flag format is useful too
+
+Автор: SharLike/Fro_0st
+
+Контакты: http://t.me/Fro_0st

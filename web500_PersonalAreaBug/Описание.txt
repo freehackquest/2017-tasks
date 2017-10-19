@@ -1,0 +1,16 @@
+﻿Название: PersonalAreaBug
+
+Балл: 500
+
+Описание: 
+Недавно поступил в университет, а чтобы глянуть расписание, да и сообщения от преподов, нужно зайти в личный кабинет. Но, как оказалось, с безопасностью ресурса не всё гладко уже на этапе авторизации..
+
+I recently entered the university, and to look at the schedule, and messages from teachers, you need to go to your Personal area. But, as it turned out, with the security of the resource everything is bad already at the Authorization stage ..
+
+Ссылка: http://185.185.69.188/
+
+Флаг: Fhq{Y0u_hav3_been_SuCC3ssfuL_w1th_XXE}
+
+Автор: SharLike - paulinho
+
+Контакты: https://t.me/paulinho22
