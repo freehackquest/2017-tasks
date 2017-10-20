@@ -42,4 +42,4 @@ Options:
 	
 ### Youtube
 
-(https://www.youtube.com/watch?v=Cc5knW2B_EY)[https://www.youtube.com/watch?v=Cc5knW2B_EY]
+[https://www.youtube.com/watch?v=Cc5knW2B_EY](https://www.youtube.com/watch?v=Cc5knW2B_EY)
