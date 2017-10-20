@@ -33,3 +33,8 @@ Sharlike/converal
 Cipher: ASCII To Decimal
 Plaintext: 55yearsoldancientamericancode
 Ciphertext: 053 053 121 101 097 114 115 111 108 100 097 110 099 105 101 110 116 097 109 101 114 105 099 097 110 099 111 100 101
+
+### Youtube
+
+* [https://www.youtube.com/watch?v=d2Y49Hr96pk](https://www.youtube.com/watch?v=d2Y49Hr96pk)
+* [https://www.youtube.com/watch?v=LT1vrdXr28I](https://www.youtube.com/watch?v=LT1vrdXr28I)

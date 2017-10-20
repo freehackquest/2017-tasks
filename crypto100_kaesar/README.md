@@ -25,3 +25,8 @@ Plaintext: theclassics
 Key: 17
 Alphabet: Default
 Ciphertext: kyvtcrjjztj
+
+### Youtube
+
+* [https://www.youtube.com/watch?v=gJeOeTGI7T8](https://www.youtube.com/watch?v=gJeOeTGI7T8)
+* [https://www.youtube.com/watch?v=zuLfdx3AAkk](https://www.youtube.com/watch?v=zuLfdx3AAkk)
